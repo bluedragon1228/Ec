@@ -6,7 +6,7 @@
         "color": "gray",
         "discountedPrice": 474,
         "price": 1399,
-        "discountPersent": 66 ,
+        "discountedPercent": 66 ,
         "size": [
             {
               "name": "S",
@@ -22,9 +22,9 @@
             }
           ],
           "quantity": 100,
-          "topLavelCategory": "Women",
-          "secondLavelCategory": "Clothing",
-          "thirdLavelCategory": "women_jeans",
+          "topLevelCategory": "Women",
+          "secondLevelCategory": "Clothing",
+          "thirdLevelCategory": "women_jeans",
           "description":"A traditional garment embodying elegance and grace. Crafted from fine fabrics, it features intricate embroidery and a relaxed fit, providing comfort and style."
     },
     {
@@ -34,7 +34,7 @@
         "color": "gray",
         "discountedPrice": 899,
         "price": 1699,
-        "discountPersent": 47 ,
+        "discountedPercent": 47 ,
         "size": [
             {
               "name": "S",
@@ -50,9 +50,9 @@
             }
           ],
           "quantity": 100,
-          "topLavelCategory": "Women",
-          "secondLavelCategory": "Clothing",
-          "thirdLavelCategory": "women_jeans",
+          "topLevelCategory": "Women",
+          "secondLevelCategory": "Clothing",
+          "thirdLevelCategory": "women_jeans",
           "description":"A traditional garment embodying elegance and grace. Crafted from fine fabrics, it features intricate embroidery and a relaxed fit, providing comfort and style."
     },
     {
@@ -62,7 +62,7 @@
         "color": "gray",
         "discountedPrice": 499,
         "price": 1499,
-        "discountPersent": 66 ,
+        "discountedPercent": 66 ,
         "size": [
             {
               "name": "S",
@@ -78,9 +78,9 @@
             }
           ],
           "quantity": 100,
-          "topLavelCategory": "Women",
-          "secondLavelCategory": "Clothing",
-          "thirdLavelCategory": "women_jeans",
+          "topLevelCategory": "Women",
+          "secondLevelCategory": "Clothing",
+          "thirdLevelCategory": "women_jeans",
           "description":"A traditional garment embodying elegance and grace. Crafted from fine fabrics, it features intricate embroidery and a relaxed fit, providing comfort and style."
     },
     {
@@ -90,7 +90,7 @@
         "color": "gray",
         "discountedPrice": 629,
         "price": 1999,
-        "discountPersent": 68 ,
+        "discountedPercent": 68 ,
         "size": [
             {
               "name": "S",
@@ -106,9 +106,9 @@
             }
           ],
           "quantity": 100,
-          "topLavelCategory": "Women",
-          "secondLavelCategory": "Clothing",
-          "thirdLavelCategory": "women_jeans",
+          "topLevelCategory": "Women",
+          "secondLevelCategory": "Clothing",
+          "thirdLevelCategory": "women_jeans",
           "description":"A traditional garment embodying elegance and grace. Crafted from fine fabrics, it features intricate embroidery and a relaxed fit, providing comfort and style."
     },
     {
@@ -118,7 +118,7 @@
         "color": "gray",
         "discountedPrice": 499,
         "price": 1499,
-        "discountPersent": 66 ,
+        "discountedPercent": 66 ,
         "size": [
             {
               "name": "S",
@@ -134,9 +134,9 @@
             }
           ],
           "quantity": 100,
-          "topLavelCategory": "Women",
-          "secondLavelCategory": "Clothing",
-          "thirdLavelCategory": "women_jeans",
+          "topLevelCategory": "Women",
+          "secondLevelCategory": "Clothing",
+          "thirdLevelCategory": "women_jeans",
           "description":"A traditional garment embodying elegance and grace. Crafted from fine fabrics, it features intricate embroidery and a relaxed fit, providing comfort and style."
     },
     {
@@ -146,7 +146,7 @@
         "color": "gray",
         "discountedPrice": 577,
         "price": 1899,
-        "discountPersent": 69 ,
+        "discountedPercent": 69 ,
         "size": [
             {
               "name": "S",
@@ -162,9 +162,9 @@
             }
           ],
           "quantity": 100,
-          "topLavelCategory": "Women",
-          "secondLavelCategory": "Clothing",
-          "thirdLavelCategory": "women_jeans",
+          "topLevelCategory": "Women",
+          "secondLevelCategory": "Clothing",
+          "thirdLevelCategory": "women_jeans",
           "description":"A traditional garment embodying elegance and grace. Crafted from fine fabrics, it features intricate embroidery and a relaxed fit, providing comfort and style."
     },
     {
@@ -174,7 +174,7 @@
         "color": "gray",
         "discountedPrice": 479,
         "price": 1299,
-        "discountPersent": 63 ,
+        "discountedPercent": 63 ,
         "size": [
             {
               "name": "S",
@@ -190,9 +190,9 @@
             }
           ],
           "quantity": 100,
-          "topLavelCategory": "Women",
-          "secondLavelCategory": "Clothing",
-          "thirdLavelCategory": "women_jeans",
+          "topLevelCategory": "Women",
+          "secondLevelCategory": "Clothing",
+          "thirdLevelCategory": "women_jeans",
           "description":"A traditional garment embodying elegance and grace. Crafted from fine fabrics, it features intricate embroidery and a relaxed fit, providing comfort and style."
     },
     {
@@ -202,7 +202,7 @@
         "color": "gray",
         "discountedPrice": 719,
         "price": 1499,
-        "discountPersent": 52 ,
+        "discountedPercent": 52 ,
         "size": [
             {
               "name": "S",
@@ -218,9 +218,9 @@
             }
           ],
           "quantity": 100,
-          "topLavelCategory": "Women",
-          "secondLavelCategory": "Clothing",
-          "thirdLavelCategory": "women_jeans",
+          "topLevelCategory": "Women",
+          "secondLevelCategory": "Clothing",
+          "thirdLevelCategory": "women_jeans",
           "description":"A traditional garment embodying elegance and grace. Crafted from fine fabrics, it features intricate embroidery and a relaxed fit, providing comfort and style."
     },
     {
@@ -230,7 +230,7 @@
         "color": "gray",
         "discountedPrice": 629,
         "price": 2999,
-        "discountPersent": 79 ,
+        "discountedPercent": 79 ,
         "size": [
             {
               "name": "S",
@@ -246,9 +246,9 @@
             }
           ],
           "quantity": 100,
-          "topLavelCategory": "Women",
-          "secondLavelCategory": "Clothing",
-          "thirdLavelCategory": "women_jeans",
+          "topLevelCategory": "Women",
+          "secondLevelCategory": "Clothing",
+          "thirdLevelCategory": "women_jeans",
           "description":"A traditional garment embodying elegance and grace. Crafted from fine fabrics, it features intricate embroidery and a relaxed fit, providing comfort and style."
     },
     {
@@ -258,7 +258,7 @@
         "color": "gray",
         "discountedPrice": 1399,
         "price": 2699,
-        "discountPersent": 50 ,
+        "discountedPercent": 50 ,
         "size": [
             {
               "name": "S",
@@ -274,9 +274,9 @@
             }
           ],
           "quantity": 100,
-          "topLavelCategory": "Women",
-          "secondLavelCategory": "Clothing",
-          "thirdLavelCategory": "women_jeans",
+          "topLevelCategory": "Women",
+          "secondLevelCategory": "Clothing",
+          "thirdLevelCategory": "women_jeans",
           "description":"A traditional garment embodying elegance and grace. Crafted from fine fabrics, it features intricate embroidery and a relaxed fit, providing comfort and style."
     },
     {
@@ -286,7 +286,7 @@
         "color": "gray",
         "discountedPrice": 494,
         "price": 2299,
-        "discountPersent": 78 ,
+        "discountedPercent": 78 ,
         "size": [
             {
               "name": "S",
@@ -302,9 +302,9 @@
             }
           ],
           "quantity": 100,
-          "topLavelCategory": "Women",
-          "secondLavelCategory": "Clothing",
-          "thirdLavelCategory": "women_jeans",
+          "topLevelCategory": "Women",
+          "secondLevelCategory": "Clothing",
+          "thirdLevelCategory": "women_jeans",
           "description":"A traditional garment embodying elegance and grace. Crafted from fine fabrics, it features intricate embroidery and a relaxed fit, providing comfort and style."
     },
     {
@@ -314,7 +314,7 @@
         "color": "gray",
         "discountedPrice": 849,
         "price": 1499,
-        "discountPersent": 43 ,
+        "discountedPercent": 43 ,
         "size": [
             {
               "name": "S",
@@ -330,9 +330,9 @@
             }
           ],
           "quantity": 100,
-          "topLavelCategory": "Women",
-          "secondLavelCategory": "Clothing",
-          "thirdLavelCategory": "women_jeans",
+          "topLevelCategory": "Women",
+          "secondLevelCategory": "Clothing",
+          "thirdLevelCategory": "women_jeans",
           "description":"A traditional garment embodying elegance and grace. Crafted from fine fabrics, it features intricate embroidery and a relaxed fit, providing comfort and style."
     },
     {
@@ -342,7 +342,7 @@
         "color": "gray",
         "discountedPrice": 499,
         "price": 1499,
-        "discountPersent": 66 ,
+        "discountedPercent": 66 ,
         "size": [
             {
               "name": "S",
@@ -358,9 +358,9 @@
             }
           ],
           "quantity": 100,
-          "topLavelCategory": "Women",
-          "secondLavelCategory": "Clothing",
-          "thirdLavelCategory": "women_jeans",
+          "topLevelCategory": "Women",
+          "secondLevelCategory": "Clothing",
+          "thirdLevelCategory": "women_jeans",
           "description":"A traditional garment embodying elegance and grace. Crafted from fine fabrics, it features intricate embroidery and a relaxed fit, providing comfort and style."
     },
     {
@@ -370,7 +370,7 @@
         "color": "gray",
         "discountedPrice": 840,
         "price": 2199,
-        "discountPersent": 61 ,
+        "discountedPercent": 61 ,
         "size": [
             {
               "name": "S",
@@ -386,9 +386,9 @@
             }
           ],
           "quantity": 100,
-          "topLavelCategory": "Women",
-          "secondLavelCategory": "Clothing",
-          "thirdLavelCategory": "women_jeans",
+          "topLevelCategory": "Women",
+          "secondLevelCategory": "Clothing",
+          "thirdLevelCategory": "women_jeans",
           "description":"A traditional garment embodying elegance and grace. Crafted from fine fabrics, it features intricate embroidery and a relaxed fit, providing comfort and style."
     },
     {
@@ -398,7 +398,7 @@
         "color": "gray",
         "discountedPrice": 659,
         "price": 1999,
-        "discountPersent": 67 ,
+        "discountedPercent": 67 ,
         "size": [
             {
               "name": "S",
@@ -414,9 +414,9 @@
             }
           ],
           "quantity": 100,
-          "topLavelCategory": "Women",
-          "secondLavelCategory": "Clothing",
-          "thirdLavelCategory": "women_jeans",
+          "topLevelCategory": "Women",
+          "secondLevelCategory": "Clothing",
+          "thirdLevelCategory": "women_jeans",
           "description":"A traditional garment embodying elegance and grace. Crafted from fine fabrics, it features intricate embroidery and a relaxed fit, providing comfort and style."
     },
     {
@@ -426,7 +426,7 @@
         "color": "gray",
         "discountedPrice": 629,
         "price": 1999,
-        "discountPersent": 68 ,
+        "discountedPercent": 68 ,
         "size": [
             {
               "name": "S",
@@ -442,9 +442,9 @@
             }
           ],
           "quantity": 100,
-          "topLavelCategory": "Women",
-          "secondLavelCategory": "Clothing",
-          "thirdLavelCategory": "women_jeans",
+          "topLevelCategory": "Women",
+          "secondLevelCategory": "Clothing",
+          "thirdLevelCategory": "women_jeans",
           "description":"A traditional garment embodying elegance and grace. Crafted from fine fabrics, it features intricate embroidery and a relaxed fit, providing comfort and style."
     },
     {
@@ -454,7 +454,7 @@
         "color": "gray",
         "discountedPrice": 499,
         "price": 999,
-                "discountPersent": 50 ,
+                "discountedPercent": 50 ,
         "size": [
             {
               "name": "S",
@@ -470,9 +470,9 @@
             }
           ],
           "quantity": 100,
-          "topLavelCategory": "Women",
-          "secondLavelCategory": "Clothing",
-          "thirdLavelCategory": "women_jeans",
+          "topLevelCategory": "Women",
+          "secondLevelCategory": "Clothing",
+          "thirdLevelCategory": "women_jeans",
           "description":"A traditional garment embodying elegance and grace. Crafted from fine fabrics, it features intricate embroidery and a relaxed fit, providing comfort and style."
     },
     {
@@ -482,7 +482,7 @@
         "color": "gray",
         "discountedPrice": 499,
         "price": 1499,
-        "discountPersent": 66 ,
+        "discountedPercent": 66 ,
         "size": [
             {
               "name": "S",
@@ -498,9 +498,9 @@
             }
           ],
           "quantity": 100,
-          "topLavelCategory": "Women",
-          "secondLavelCategory": "Clothing",
-          "thirdLavelCategory": "women_jeans",
+          "topLevelCategory": "Women",
+          "secondLevelCategory": "Clothing",
+          "thirdLevelCategory": "women_jeans",
           "description":"A traditional garment embodying elegance and grace. Crafted from fine fabrics, it features intricate embroidery and a relaxed fit, providing comfort and style."
     },
     {
@@ -510,7 +510,7 @@
         "color": "gray",
         "discountedPrice": 550,
         "price": 2099,
-        "discountPersent": 73 ,
+        "discountedPercent": 73 ,
         "size": [
             {
               "name": "S",
@@ -526,9 +526,9 @@
             }
           ],
           "quantity": 100,
-          "topLavelCategory": "Women",
-          "secondLavelCategory": "Clothing",
-          "thirdLavelCategory": "women_jeans",
+          "topLevelCategory": "Women",
+          "secondLevelCategory": "Clothing",
+          "thirdLevelCategory": "women_jeans",
           "description":"A traditional garment embodying elegance and grace. Crafted from fine fabrics, it features intricate embroidery and a relaxed fit, providing comfort and style."
     },
     {
@@ -538,7 +538,7 @@
         "color": "gray",
         "discountedPrice": 1399,
         "price": 2699,
-        "discountPersent": 50 ,
+        "discountedPercent": 50 ,
         "size": [
             {
               "name": "S",
@@ -554,9 +554,9 @@
             }
           ],
           "quantity": 100,
-          "topLavelCategory": "Women",
-          "secondLavelCategory": "Clothing",
-          "thirdLavelCategory": "women_jeans",
+          "topLevelCategory": "Women",
+          "secondLevelCategory": "Clothing",
+          "thirdLevelCategory": "women_jeans",
           "description":"A traditional garment embodying elegance and grace. Crafted from fine fabrics, it features intricate embroidery and a relaxed fit, providing comfort and style."
     },
     {
@@ -566,7 +566,7 @@
         "color": "gray",
         "discountedPrice": 577,
         "price": 1899,
-        "discountPersent": 69 ,
+        "discountedPercent": 69 ,
         "size": [
             {
               "name": "S",
@@ -582,9 +582,9 @@
             }
           ],
           "quantity": 100,
-          "topLavelCategory": "Women",
-          "secondLavelCategory": "Clothing",
-          "thirdLavelCategory": "women_jeans",
+          "topLevelCategory": "Women",
+          "secondLevelCategory": "Clothing",
+          "thirdLevelCategory": "women_jeans",
           "description":"A traditional garment embodying elegance and grace. Crafted from fine fabrics, it features intricate embroidery and a relaxed fit, providing comfort and style."
     },
     {
@@ -594,7 +594,7 @@
         "color": "gray",
         "discountedPrice": 629,
         "price": 3999,
-        "discountPersent": 84 ,
+        "discountedPercent": 84 ,
         "size": [
             {
               "name": "S",
@@ -610,9 +610,9 @@
             }
           ],
           "quantity": 100,
-          "topLavelCategory": "Women",
-          "secondLavelCategory": "Clothing",
-          "thirdLavelCategory": "women_jeans",
+          "topLevelCategory": "Women",
+          "secondLevelCategory": "Clothing",
+          "thirdLevelCategory": "women_jeans",
           "description":"A traditional garment embodying elegance and grace. Crafted from fine fabrics, it features intricate embroidery and a relaxed fit, providing comfort and style."
     },
     {
@@ -621,7 +621,7 @@
         "title": "Women Regular High Rise Grey Jeans",
         "color": "gray",
         "discountedPrice": 499,
-        "price": 999,        "discountPersent": 50 ,
+        "price": 999,        "discountedPercent": 50 ,
         "size": [
             {
               "name": "S",
@@ -637,9 +637,9 @@
             }
           ],
           "quantity": 100,
-          "topLavelCategory": "Women",
-          "secondLavelCategory": "Clothing",
-          "thirdLavelCategory": "women_jeans",
+          "topLevelCategory": "Women",
+          "secondLevelCategory": "Clothing",
+          "thirdLevelCategory": "women_jeans",
           "description":"A traditional garment embodying elegance and grace. Crafted from fine fabrics, it features intricate embroidery and a relaxed fit, providing comfort and style."
     },
     {
@@ -649,7 +649,7 @@
         "color": "gray",
         "discountedPrice": 672,
         "price": 2199,
-        "discountPersent": 69 ,
+        "discountedPercent": 69 ,
         "size": [
             {
               "name": "S",
@@ -665,9 +665,9 @@
             }
           ],
           "quantity": 100,
-          "topLavelCategory": "Women",
-          "secondLavelCategory": "Clothing",
-          "thirdLavelCategory": "women_jeans",
+          "topLevelCategory": "Women",
+          "secondLevelCategory": "Clothing",
+          "thirdLevelCategory": "women_jeans",
           "description":"A traditional garment embodying elegance and grace. Crafted from fine fabrics, it features intricate embroidery and a relaxed fit, providing comfort and style."
     },
     {
@@ -677,7 +677,7 @@
         "color": "gray",
         "discountedPrice": 629,
         "price": 1999,
-        "discountPersent": 68 ,
+        "discountedPercent": 68 ,
         "size": [
             {
               "name": "S",
@@ -693,9 +693,9 @@
             }
           ],
           "quantity": 100,
-          "topLavelCategory": "Women",
-          "secondLavelCategory": "Clothing",
-          "thirdLavelCategory": "women_jeans",
+          "topLevelCategory": "Women",
+          "secondLevelCategory": "Clothing",
+          "thirdLevelCategory": "women_jeans",
           "description":"A traditional garment embodying elegance and grace. Crafted from fine fabrics, it features intricate embroidery and a relaxed fit, providing comfort and style."
     },
     {
@@ -705,7 +705,7 @@
         "color": "gray",
         "discountedPrice": 629,
         "price": 1999,
-        "discountPersent": 68 ,
+        "discountedPercent": 68 ,
         "size": [
             {
               "name": "S",
@@ -721,9 +721,9 @@
             }
           ],
           "quantity": 100,
-          "topLavelCategory": "Women",
-          "secondLavelCategory": "Clothing",
-          "thirdLavelCategory": "women_jeans",
+          "topLevelCategory": "Women",
+          "secondLevelCategory": "Clothing",
+          "thirdLevelCategory": "women_jeans",
           "description":"A traditional garment embodying elegance and grace. Crafted from fine fabrics, it features intricate embroidery and a relaxed fit, providing comfort and style."
     },
     {
@@ -733,7 +733,7 @@
         "color": "gray",
         "discountedPrice": 840,
         "price": 2199,
-        "discountPersent": 61 ,
+        "discountedPercent": 61 ,
         "size": [
             {
               "name": "S",
@@ -749,9 +749,9 @@
             }
           ],
           "quantity": 100,
-          "topLavelCategory": "Women",
-          "secondLavelCategory": "Clothing",
-          "thirdLavelCategory": "women_jeans",
+          "topLevelCategory": "Women",
+          "secondLevelCategory": "Clothing",
+          "thirdLevelCategory": "women_jeans",
           "description":"A traditional garment embodying elegance and grace. Crafted from fine fabrics, it features intricate embroidery and a relaxed fit, providing comfort and style."
     },
     {
@@ -761,7 +761,7 @@
         "color": "gray",
         "discountedPrice": 399,
         "price": 2000,
-        "discountPersent": 80 ,
+        "discountedPercent": 80 ,
         "size": [
             {
               "name": "S",
@@ -777,9 +777,9 @@
             }
           ],
           "quantity": 100,
-          "topLavelCategory": "Women",
-          "secondLavelCategory": "Clothing",
-          "thirdLavelCategory": "women_jeans",
+          "topLevelCategory": "Women",
+          "secondLevelCategory": "Clothing",
+          "thirdLevelCategory": "women_jeans",
           "description":"A traditional garment embodying elegance and grace. Crafted from fine fabrics, it features intricate embroidery and a relaxed fit, providing comfort and style."
     },
     {
@@ -789,7 +789,7 @@
         "color": "gray",
         "discountedPrice": 577,
         "price": 1899,
-        "discountPersent": 69 ,
+        "discountedPercent": 69 ,
         "size": [
             {
               "name": "S",
@@ -805,9 +805,9 @@
             }
           ],
           "quantity": 100,
-          "topLavelCategory": "Women",
-          "secondLavelCategory": "Clothing",
-          "thirdLavelCategory": "women_jeans",
+          "topLevelCategory": "Women",
+          "secondLevelCategory": "Clothing",
+          "thirdLevelCategory": "women_jeans",
           "description":"A traditional garment embodying elegance and grace. Crafted from fine fabrics, it features intricate embroidery and a relaxed fit, providing comfort and style."
     },
     {
@@ -817,7 +817,7 @@
         "color": "gray",
         "discountedPrice": 498,
         "price": 2499,
-        "discountPersent": 80 ,
+        "discountedPercent": 80 ,
         "size": [
             {
               "name": "S",
@@ -833,9 +833,9 @@
             }
           ],
           "quantity": 100,
-          "topLavelCategory": "Women",
-          "secondLavelCategory": "Clothing",
-          "thirdLavelCategory": "women_jeans",
+          "topLevelCategory": "Women",
+          "secondLevelCategory": "Clothing",
+          "thirdLevelCategory": "women_jeans",
           "description":"A traditional garment embodying elegance and grace. Crafted from fine fabrics, it features intricate embroidery and a relaxed fit, providing comfort and style."
     },
     {
@@ -845,7 +845,7 @@
         "color": "gray",
         "discountedPrice": 499,
         "price": 1499,
-        "discountPersent": 66 ,
+        "discountedPercent": 66 ,
         "size": [
             {
               "name": "S",
@@ -861,9 +861,9 @@
             }
           ],
           "quantity": 100,
-          "topLavelCategory": "Women",
-          "secondLavelCategory": "Clothing",
-          "thirdLavelCategory": "women_jeans",
+          "topLevelCategory": "Women",
+          "secondLevelCategory": "Clothing",
+          "thirdLevelCategory": "women_jeans",
           "description":"A traditional garment embodying elegance and grace. Crafted from fine fabrics, it features intricate embroidery and a relaxed fit, providing comfort and style."
     },
     {
@@ -873,7 +873,7 @@
         "color": "gray",
         "discountedPrice": 1249,
         "price": 2699,
-        "discountPersent": 55 ,
+        "discountedPercent": 55 ,
         "size": [
             {
               "name": "S",
@@ -889,9 +889,9 @@
             }
           ],
           "quantity": 100,
-          "topLavelCategory": "Women",
-          "secondLavelCategory": "Clothing",
-          "thirdLavelCategory": "women_jeans",
+          "topLevelCategory": "Women",
+          "secondLevelCategory": "Clothing",
+          "thirdLevelCategory": "women_jeans",
           "description":"A traditional garment embodying elegance and grace. Crafted from fine fabrics, it features intricate embroidery and a relaxed fit, providing comfort and style."
     },
     {
@@ -901,7 +901,7 @@
         "color": "gray",
         "discountedPrice": 607,
         "price": 1999,
-        "discountPersent": 69 ,
+        "discountedPercent": 69 ,
         "size": [
             {
               "name": "S",
@@ -917,9 +917,9 @@
             }
           ],
           "quantity": 100,
-          "topLavelCategory": "Women",
-          "secondLavelCategory": "Clothing",
-          "thirdLavelCategory": "women_jeans",
+          "topLevelCategory": "Women",
+          "secondLevelCategory": "Clothing",
+          "thirdLevelCategory": "women_jeans",
           "description":"A traditional garment embodying elegance and grace. Crafted from fine fabrics, it features intricate embroidery and a relaxed fit, providing comfort and style."
     },
     {
@@ -929,7 +929,7 @@
         "color": "gray",
         "discountedPrice": 577,
         "price": 1899,
-        "discountPersent": 69 ,
+        "discountedPercent": 69 ,
         "size": [
             {
               "name": "S",
@@ -945,9 +945,9 @@
             }
           ],
           "quantity": 100,
-          "topLavelCategory": "Women",
-          "secondLavelCategory": "Clothing",
-          "thirdLavelCategory": "women_jeans",
+          "topLevelCategory": "Women",
+          "secondLevelCategory": "Clothing",
+          "thirdLevelCategory": "women_jeans",
           "description":"A traditional garment embodying elegance and grace. Crafted from fine fabrics, it features intricate embroidery and a relaxed fit, providing comfort and style."
     },
     {
@@ -957,7 +957,7 @@
         "color": "gray",
         "discountedPrice": 449,
         "price": 1799,
-        "discountPersent": 75 ,
+        "discountedPercent": 75 ,
         "size": [
             {
               "name": "S",
@@ -973,9 +973,9 @@
             }
           ],
           "quantity": 100,
-          "topLavelCategory": "Women",
-          "secondLavelCategory": "Clothing",
-          "thirdLavelCategory": "women_jeans",
+          "topLevelCategory": "Women",
+          "secondLevelCategory": "Clothing",
+          "thirdLevelCategory": "women_jeans",
           "description":"A traditional garment embodying elegance and grace. Crafted from fine fabrics, it features intricate embroidery and a relaxed fit, providing comfort and style."
     },
     {
@@ -985,7 +985,7 @@
         "color": "gray",
         "discountedPrice": 629,
         "price": 3999,
-        "discountPersent": 84 ,
+        "discountedPercent": 84 ,
         "size": [
             {
               "name": "S",
@@ -1001,9 +1001,9 @@
             }
           ],
           "quantity": 100,
-          "topLavelCategory": "Women",
-          "secondLavelCategory": "Clothing",
-          "thirdLavelCategory": "women_jeans",
+          "topLevelCategory": "Women",
+          "secondLevelCategory": "Clothing",
+          "thirdLevelCategory": "women_jeans",
           "description":"A traditional garment embodying elegance and grace. Crafted from fine fabrics, it features intricate embroidery and a relaxed fit, providing comfort and style."
     },
     {
@@ -1013,7 +1013,7 @@
         "color": "gray",
         "discountedPrice": 479,
         "price": 1599,
-        "discountPersent": 70 ,
+        "discountedPercent": 70 ,
         "size": [
             {
               "name": "S",
@@ -1029,9 +1029,9 @@
             }
           ],
           "quantity": 100,
-          "topLavelCategory": "Women",
-          "secondLavelCategory": "Clothing",
-          "thirdLavelCategory": "women_jeans",
+          "topLevelCategory": "Women",
+          "secondLevelCategory": "Clothing",
+          "thirdLevelCategory": "women_jeans",
           "description":"A traditional garment embodying elegance and grace. Crafted from fine fabrics, it features intricate embroidery and a relaxed fit, providing comfort and style."
     },
     {
@@ -1041,7 +1041,7 @@
         "color": "gray",
         "discountedPrice": 577,
         "price": 1899,
-        "discountPersent": 69 ,
+        "discountedPercent": 69 ,
         "size": [
             {
               "name": "S",
@@ -1057,9 +1057,9 @@
             }
           ],
           "quantity": 100,
-          "topLavelCategory": "Women",
-          "secondLavelCategory": "Clothing",
-          "thirdLavelCategory": "women_jeans",
+          "topLevelCategory": "Women",
+          "secondLevelCategory": "Clothing",
+          "thirdLevelCategory": "women_jeans",
           "description":"A traditional garment embodying elegance and grace. Crafted from fine fabrics, it features intricate embroidery and a relaxed fit, providing comfort and style."
     },
     {
@@ -1069,7 +1069,7 @@
         "color": "gray",
         "discountedPrice": 686,
         "price": 2599,
-        "discountPersent": 73 ,
+        "discountedPercent": 73 ,
         "size": [
             {
               "name": "S",
@@ -1085,9 +1085,9 @@
             }
           ],
           "quantity": 100,
-          "topLavelCategory": "Women",
-          "secondLavelCategory": "Clothing",
-          "thirdLavelCategory": "women_jeans",
+          "topLevelCategory": "Women",
+          "secondLevelCategory": "Clothing",
+          "thirdLevelCategory": "women_jeans",
           "description":"A traditional garment embodying elegance and grace. Crafted from fine fabrics, it features intricate embroidery and a relaxed fit, providing comfort and style."
     },
     {
@@ -1097,7 +1097,7 @@
         "color": "gray",
         "discountedPrice": 489,
         "price": 1799,
-        "discountPersent": 72 ,
+        "discountedPercent": 72 ,
         "size": [
             {
               "name": "S",
@@ -1113,9 +1113,9 @@
             }
           ],
           "quantity": 100,
-          "topLavelCategory": "Women",
-          "secondLavelCategory": "Clothing",
-          "thirdLavelCategory": "women_jeans",
+          "topLevelCategory": "Women",
+          "secondLevelCategory": "Clothing",
+          "thirdLevelCategory": "women_jeans",
           "description":"A traditional garment embodying elegance and grace. Crafted from fine fabrics, it features intricate embroidery and a relaxed fit, providing comfort and style."
     }
 ]

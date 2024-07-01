@@ -12,6 +12,7 @@ import { CartItemComponent } from './components/cart-item/cart-item.component';
 import { AddressCardComponent } from './components/address-card/address-card.component';
 import { OrderTrackerComponent } from './components/order-tracker/order-tracker.component';
 import {  MatDividerModule } from '@angular/material/divider';
+import { MatDialogModule } from '@angular/material/dialog';
 
 
 
@@ -24,14 +25,15 @@ import {  MatDividerModule } from '@angular/material/divider';
     StarRatingComponent,
     CartItemComponent,
     AddressCardComponent,
-    OrderTrackerComponent
+    OrderTrackerComponent,
   ],
   imports: [
     CommonModule,
     MatIconModule,
     MatButtonModule,
     MatMenuModule,
-    MatDividerModule
+    MatDividerModule,
+    MatDialogModule
   ],
   exports:[
     NavbarComponent,

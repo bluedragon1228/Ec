@@ -6,7 +6,7 @@
         "color": "yellow",
         "discountedPrice": 699,
         "price": 1999,
-        "discountPersent": 65,
+        "discountedPercent": 65,
         "size": [
             {
               "name": "S",
@@ -22,9 +22,9 @@
             }
           ],
           "quantity": 100,
-          "topLavelCategory": "Women",
-          "secondLavelCategory": "Clothing",
-          "thirdLavelCategory": "women_dress",
+          "topLevelCategory": "Women",
+          "secondLevelCategory": "Clothing",
+          "thirdLevelCategory": "women_dress",
           "description":"A traditional garment embodying elegance and grace. Crafted from fine fabrics, it features intricate embroidery and a relaxed fit, providing comfort and style."
     },
     {
@@ -34,7 +34,7 @@
         "color": "yellow",
         "discountedPrice": 699,
         "price": 1999,
-        "discountPersent": 65,
+        "discountedPercent": 65,
         "size": [
             {
               "name": "S",
@@ -50,9 +50,9 @@
             }
           ],
           "quantity": 100,
-          "topLavelCategory": "Women",
-          "secondLavelCategory": "Clothing",
-          "thirdLavelCategory": "women_dress",
+          "topLevelCategory": "Women",
+          "secondLevelCategory": "Clothing",
+          "thirdLevelCategory": "women_dress",
           "description":"A traditional garment embodying elegance and grace. Crafted from fine fabrics, it features intricate embroidery and a relaxed fit, providing comfort and style."
     },
     {
@@ -62,7 +62,7 @@
         "color": "yellow",
         "discountedPrice": 459,
         "price": 1999,
-        "discountPersent": 77,
+        "discountedPercent": 77,
         "size": [
             {
               "name": "S",
@@ -78,9 +78,9 @@
             }
           ],
           "quantity": 100,
-          "topLavelCategory": "Women",
-          "secondLavelCategory": "Clothing",
-          "thirdLavelCategory": "women_dress",
+          "topLevelCategory": "Women",
+          "secondLevelCategory": "Clothing",
+          "thirdLevelCategory": "women_dress",
           "description":"A traditional garment embodying elegance and grace. Crafted from fine fabrics, it features intricate embroidery and a relaxed fit, providing comfort and style."
     },
     {
@@ -90,7 +90,7 @@
         "color": "yellow",
         "discountedPrice": 459,
         "price": 1999,
-        "discountPersent": 77,
+        "discountedPercent": 77,
         "size": [
             {
               "name": "S",
@@ -106,9 +106,9 @@
             }
           ],
           "quantity": 100,
-          "topLavelCategory": "Women",
-          "secondLavelCategory": "Clothing",
-          "thirdLavelCategory": "women_dress",
+          "topLevelCategory": "Women",
+          "secondLevelCategory": "Clothing",
+          "thirdLevelCategory": "women_dress",
           "description":"A traditional garment embodying elegance and grace. Crafted from fine fabrics, it features intricate embroidery and a relaxed fit, providing comfort and style."
     },
     {
@@ -118,7 +118,7 @@
         "color": "yellow",
         "discountedPrice": 420,
         "price": 1499,
-        "discountPersent": 71,
+        "discountedPercent": 71,
         "size": [
             {
               "name": "S",
@@ -134,9 +134,9 @@
             }
           ],
           "quantity": 100,
-          "topLavelCategory": "Women",
-          "secondLavelCategory": "Clothing",
-          "thirdLavelCategory": "women_dress",
+          "topLevelCategory": "Women",
+          "secondLevelCategory": "Clothing",
+          "thirdLevelCategory": "women_dress",
           "description":"A traditional garment embodying elegance and grace. Crafted from fine fabrics, it features intricate embroidery and a relaxed fit, providing comfort and style."
     },
     {
@@ -146,7 +146,7 @@
         "color": "yellow",
         "discountedPrice": 902,
         "price": 2689,
-        "discountPersent": 66,
+        "discountedPercent": 66,
         "size": [
             {
               "name": "S",
@@ -162,9 +162,9 @@
             }
           ],
           "quantity": 100,
-          "topLavelCategory": "Women",
-          "secondLavelCategory": "Clothing",
-          "thirdLavelCategory": "women_dress",
+          "topLevelCategory": "Women",
+          "secondLevelCategory": "Clothing",
+          "thirdLevelCategory": "women_dress",
           "description":"A traditional garment embodying elegance and grace. Crafted from fine fabrics, it features intricate embroidery and a relaxed fit, providing comfort and style."
     },
     {
@@ -174,7 +174,7 @@
         "color": "yellow",
         "discountedPrice": 549,
         "price": 2999,
-        "discountPersent": 81,
+        "discountedPercent": 81,
         "size": [
             {
               "name": "S",
@@ -190,9 +190,9 @@
             }
           ],
           "quantity": 100,
-          "topLavelCategory": "Women",
-          "secondLavelCategory": "Clothing",
-          "thirdLavelCategory": "women_dress",
+          "topLevelCategory": "Women",
+          "secondLevelCategory": "Clothing",
+          "thirdLevelCategory": "women_dress",
           "description":"A traditional garment embodying elegance and grace. Crafted from fine fabrics, it features intricate embroidery and a relaxed fit, providing comfort and style."
     },
     {
@@ -202,7 +202,7 @@
         "color": "yellow",
         "discountedPrice": 699,
         "price": 1999,
-        "discountPersent": 65,
+        "discountedPercent": 65,
         "size": [
             {
               "name": "S",
@@ -218,9 +218,9 @@
             }
           ],
           "quantity": 100,
-          "topLavelCategory": "Women",
-          "secondLavelCategory": "Clothing",
-          "thirdLavelCategory": "women_dress",
+          "topLevelCategory": "Women",
+          "secondLevelCategory": "Clothing",
+          "thirdLevelCategory": "women_dress",
           "description":"A traditional garment embodying elegance and grace. Crafted from fine fabrics, it features intricate embroidery and a relaxed fit, providing comfort and style."
     },
     {
@@ -230,7 +230,7 @@
         "color": "yellow",
         "discountedPrice": 329,
         "price": 1099,
-        "discountPersent": 70,
+        "discountedPercent": 70,
         "size": [
             {
               "name": "S",
@@ -246,9 +246,9 @@
             }
           ],
           "quantity": 100,
-          "topLavelCategory": "Women",
-          "secondLavelCategory": "Clothing",
-          "thirdLavelCategory": "women_dress",
+          "topLevelCategory": "Women",
+          "secondLevelCategory": "Clothing",
+          "thirdLevelCategory": "women_dress",
           "description":"A traditional garment embodying elegance and grace. Crafted from fine fabrics, it features intricate embroidery and a relaxed fit, providing comfort and style."
     },
     {
@@ -258,7 +258,7 @@
         "color": "yellow",
         "discountedPrice": 380,
         "price": 1999,
-        "discountPersent": 80,
+        "discountedPercent": 80,
         "size": [
             {
               "name": "S",
@@ -274,9 +274,9 @@
             }
           ],
           "quantity": 100,
-          "topLavelCategory": "Women",
-          "secondLavelCategory": "Clothing",
-          "thirdLavelCategory": "women_dress",
+          "topLevelCategory": "Women",
+          "secondLevelCategory": "Clothing",
+          "thirdLevelCategory": "women_dress",
           "description":"A traditional garment embodying elegance and grace. Crafted from fine fabrics, it features intricate embroidery and a relaxed fit, providing comfort and style."
     },
     {
@@ -286,7 +286,7 @@
         "color": "yellow",
         "discountedPrice": 699,
         "price": 1999,
-        "discountPersent": 65,
+        "discountedPercent": 65,
         "size": [
             {
               "name": "S",
@@ -302,9 +302,9 @@
             }
           ],
           "quantity": 100,
-          "topLavelCategory": "Women",
-          "secondLavelCategory": "Clothing",
-          "thirdLavelCategory": "women_dress",
+          "topLevelCategory": "Women",
+          "secondLevelCategory": "Clothing",
+          "thirdLevelCategory": "women_dress",
           "description":"A traditional garment embodying elegance and grace. Crafted from fine fabrics, it features intricate embroidery and a relaxed fit, providing comfort and style."
     },
     {
@@ -314,7 +314,7 @@
         "color": "yellow",
         "discountedPrice": 699,
         "price": 1999,
-        "discountPersent": 65,
+        "discountedPercent": 65,
         "size": [
             {
               "name": "S",
@@ -330,9 +330,9 @@
             }
           ],
           "quantity": 100,
-          "topLavelCategory": "Women",
-          "secondLavelCategory": "Clothing",
-          "thirdLavelCategory": "women_dress",
+          "topLevelCategory": "Women",
+          "secondLevelCategory": "Clothing",
+          "thirdLevelCategory": "women_dress",
           "description":"A traditional garment embodying elegance and grace. Crafted from fine fabrics, it features intricate embroidery and a relaxed fit, providing comfort and style."
     },
     {
@@ -342,7 +342,7 @@
         "color": "yellow",
         "discountedPrice": 374,
         "price": 1099,
-        "discountPersent": 65,
+        "discountedPercent": 65,
         "size": [
             {
               "name": "S",
@@ -358,9 +358,9 @@
             }
           ],
           "quantity": 100,
-          "topLavelCategory": "Women",
-          "secondLavelCategory": "Clothing",
-          "thirdLavelCategory": "women_dress",
+          "topLevelCategory": "Women",
+          "secondLevelCategory": "Clothing",
+          "thirdLevelCategory": "women_dress",
           "description":"A traditional garment embodying elegance and grace. Crafted from fine fabrics, it features intricate embroidery and a relaxed fit, providing comfort and style."
     },
     {
@@ -370,7 +370,7 @@
         "color": "yellow",
         "discountedPrice": 499,
         "price": 1999,
-        "discountPersent": 75,
+        "discountedPercent": 75,
         "size": [
             {
               "name": "S",
@@ -386,9 +386,9 @@
             }
           ],
           "quantity": 100,
-          "topLavelCategory": "Women",
-          "secondLavelCategory": "Clothing",
-          "thirdLavelCategory": "women_dress",
+          "topLevelCategory": "Women",
+          "secondLevelCategory": "Clothing",
+          "thirdLevelCategory": "women_dress",
           "description":"A traditional garment embodying elegance and grace. Crafted from fine fabrics, it features intricate embroidery and a relaxed fit, providing comfort and style."
     },
     {
@@ -398,7 +398,7 @@
         "color": "yellow",
         "discountedPrice": 494,
         "price": 1649,
-        "discountPersent": 70,
+        "discountedPercent": 70,
         "size": [
             {
               "name": "S",
@@ -414,9 +414,9 @@
             }
           ],
           "quantity": 100,
-          "topLavelCategory": "Women",
-          "secondLavelCategory": "Clothing",
-          "thirdLavelCategory": "women_dress",
+          "topLevelCategory": "Women",
+          "secondLevelCategory": "Clothing",
+          "thirdLevelCategory": "women_dress",
           "description":"A traditional garment embodying elegance and grace. Crafted from fine fabrics, it features intricate embroidery and a relaxed fit, providing comfort and style."
     },
     {
@@ -426,7 +426,7 @@
         "color": "yellow",
         "discountedPrice": 672,
         "price": 2449,
-        "discountPersent": 72,
+        "discountedPercent": 72,
         "size": [
             {
               "name": "S",
@@ -442,9 +442,9 @@
             }
           ],
           "quantity": 100,
-          "topLavelCategory": "Women",
-          "secondLavelCategory": "Clothing",
-          "thirdLavelCategory": "women_dress",
+          "topLevelCategory": "Women",
+          "secondLevelCategory": "Clothing",
+          "thirdLevelCategory": "women_dress",
           "description":"A traditional garment embodying elegance and grace. Crafted from fine fabrics, it features intricate embroidery and a relaxed fit, providing comfort and style."
     },
     {
@@ -454,7 +454,7 @@
         "color": "yellow",
         "discountedPrice": 699,
         "price": 1999,
-        "discountPersent": 65,
+        "discountedPercent": 65,
         "size": [
             {
               "name": "S",
@@ -470,9 +470,9 @@
             }
           ],
           "quantity": 100,
-          "topLavelCategory": "Women",
-          "secondLavelCategory": "Clothing",
-          "thirdLavelCategory": "women_dress",
+          "topLevelCategory": "Women",
+          "secondLevelCategory": "Clothing",
+          "thirdLevelCategory": "women_dress",
           "description":"A traditional garment embodying elegance and grace. Crafted from fine fabrics, it features intricate embroidery and a relaxed fit, providing comfort and style."
     },
     {
@@ -482,7 +482,7 @@
         "color": "yellow",
         "discountedPrice": 678,
         "price": 3390,
-        "discountPersent": 80,
+        "discountedPercent": 80,
         "size": [
             {
               "name": "S",
@@ -498,9 +498,9 @@
             }
           ],
           "quantity": 100,
-          "topLavelCategory": "Women",
-          "secondLavelCategory": "Clothing",
-          "thirdLavelCategory": "women_dress",
+          "topLevelCategory": "Women",
+          "secondLevelCategory": "Clothing",
+          "thirdLevelCategory": "women_dress",
           "description":"A traditional garment embodying elegance and grace. Crafted from fine fabrics, it features intricate embroidery and a relaxed fit, providing comfort and style."
     },
     {
@@ -510,7 +510,7 @@
         "color": "yellow",
         "discountedPrice": 399,
         "price": 499,
-        "discountPersent": 20,
+        "discountedPercent": 20,
         "size": [
             {
               "name": "S",
@@ -526,9 +526,9 @@
             }
           ],
           "quantity": 100,
-          "topLavelCategory": "Women",
-          "secondLavelCategory": "Clothing",
-          "thirdLavelCategory": "women_dress",
+          "topLevelCategory": "Women",
+          "secondLevelCategory": "Clothing",
+          "thirdLevelCategory": "women_dress",
           "description":"A traditional garment embodying elegance and grace. Crafted from fine fabrics, it features intricate embroidery and a relaxed fit, providing comfort and style."
     },
     {
@@ -538,7 +538,7 @@
         "color": "yellow",
         "discountedPrice": 379,
         "price": 2199,
-        "discountPersent": 82,
+        "discountedPercent": 82,
         "size": [
             {
               "name": "S",
@@ -554,9 +554,9 @@
             }
           ],
           "quantity": 100,
-          "topLavelCategory": "Women",
-          "secondLavelCategory": "Clothing",
-          "thirdLavelCategory": "women_dress",
+          "topLevelCategory": "Women",
+          "secondLevelCategory": "Clothing",
+          "thirdLevelCategory": "women_dress",
           "description":"A traditional garment embodying elegance and grace. Crafted from fine fabrics, it features intricate embroidery and a relaxed fit, providing comfort and style."
     },
     {
@@ -566,7 +566,7 @@
         "color": "yellow",
         "discountedPrice": 594,
         "price": 1699,
-        "discountPersent": 65,
+        "discountedPercent": 65,
         "size": [
             {
               "name": "S",
@@ -582,9 +582,9 @@
             }
           ],
           "quantity": 100,
-          "topLavelCategory": "Women",
-          "secondLavelCategory": "Clothing",
-          "thirdLavelCategory": "women_dress",
+          "topLevelCategory": "Women",
+          "secondLevelCategory": "Clothing",
+          "thirdLevelCategory": "women_dress",
           "description":"A traditional garment embodying elegance and grace. Crafted from fine fabrics, it features intricate embroidery and a relaxed fit, providing comfort and style."
     },
     {
@@ -594,7 +594,7 @@
         "color": "yellow",
         "discountedPrice": 244,
         "price": 699,
-        "discountPersent": 65,
+        "discountedPercent": 65,
         "size": [
             {
               "name": "S",
@@ -610,9 +610,9 @@
             }
           ],
           "quantity": 100,
-          "topLavelCategory": "Women",
-          "secondLavelCategory": "Clothing",
-          "thirdLavelCategory": "women_dress",
+          "topLevelCategory": "Women",
+          "secondLevelCategory": "Clothing",
+          "thirdLevelCategory": "women_dress",
           "description":"A traditional garment embodying elegance and grace. Crafted from fine fabrics, it features intricate embroidery and a relaxed fit, providing comfort and style."
     },
     {
@@ -622,7 +622,7 @@
         "color": "yellow",
         "discountedPrice": 666,
         "price": 2149,
-        "discountPersent": 69,
+        "discountedPercent": 69,
         "size": [
             {
               "name": "S",
@@ -638,9 +638,9 @@
             }
           ],
           "quantity": 100,
-          "topLavelCategory": "Women",
-          "secondLavelCategory": "Clothing",
-          "thirdLavelCategory": "women_dress",
+          "topLevelCategory": "Women",
+          "secondLevelCategory": "Clothing",
+          "thirdLevelCategory": "women_dress",
           "description":"A traditional garment embodying elegance and grace. Crafted from fine fabrics, it features intricate embroidery and a relaxed fit, providing comfort and style."
     },
     {
@@ -650,7 +650,7 @@
         "color": "yellow",
         "discountedPrice": 499,
         "price": 2599,
-        "discountPersent": 80,
+        "discountedPercent": 80,
         "size": [
             {
               "name": "S",
@@ -666,9 +666,9 @@
             }
           ],
           "quantity": 100,
-          "topLavelCategory": "Women",
-          "secondLavelCategory": "Clothing",
-          "thirdLavelCategory": "women_dress",
+          "topLevelCategory": "Women",
+          "secondLevelCategory": "Clothing",
+          "thirdLevelCategory": "women_dress",
           "description":"A traditional garment embodying elegance and grace. Crafted from fine fabrics, it features intricate embroidery and a relaxed fit, providing comfort and style."
     },
     {
@@ -678,7 +678,7 @@
         "color": "yellow",
         "discountedPrice": 549,
         "price": 2999,
-        "discountPersent": 81,
+        "discountedPercent": 81,
         "size": [
             {
               "name": "S",
@@ -694,9 +694,9 @@
             }
           ],
           "quantity": 100,
-          "topLavelCategory": "Women",
-          "secondLavelCategory": "Clothing",
-          "thirdLavelCategory": "women_dress",
+          "topLevelCategory": "Women",
+          "secondLevelCategory": "Clothing",
+          "thirdLevelCategory": "women_dress",
           "description":"A traditional garment embodying elegance and grace. Crafted from fine fabrics, it features intricate embroidery and a relaxed fit, providing comfort and style."
     },
     {
@@ -706,7 +706,7 @@
         "color": "yellow",
         "discountedPrice": 399,
         "price": 1599,
-        "discountPersent": 75,
+        "discountedPercent": 75,
         "size": [
             {
               "name": "S",
@@ -722,9 +722,9 @@
             }
           ],
           "quantity": 100,
-          "topLavelCategory": "Women",
-          "secondLavelCategory": "Clothing",
-          "thirdLavelCategory": "women_dress",
+          "topLevelCategory": "Women",
+          "secondLevelCategory": "Clothing",
+          "thirdLevelCategory": "women_dress",
           "description":"A traditional garment embodying elegance and grace. Crafted from fine fabrics, it features intricate embroidery and a relaxed fit, providing comfort and style."
     },
     {
@@ -734,7 +734,7 @@
         "color": "yellow",
         "discountedPrice": 895,
         "price": 2899,
-        "discountPersent": 69,
+        "discountedPercent": 69,
         "size": [
             {
               "name": "S",
@@ -750,9 +750,9 @@
             }
           ],
           "quantity": 100,
-          "topLavelCategory": "Women",
-          "secondLavelCategory": "Clothing",
-          "thirdLavelCategory": "women_dress",
+          "topLevelCategory": "Women",
+          "secondLevelCategory": "Clothing",
+          "thirdLevelCategory": "women_dress",
           "description":"A traditional garment embodying elegance and grace. Crafted from fine fabrics, it features intricate embroidery and a relaxed fit, providing comfort and style."
     },
     {
@@ -762,7 +762,7 @@
         "color": "yellow",
         "discountedPrice": 443,
         "price": 1149,
-        "discountPersent": 61,
+        "discountedPercent": 61,
         "size": [
             {
               "name": "S",
@@ -778,9 +778,9 @@
             }
           ],
           "quantity": 100,
-          "topLavelCategory": "Women",
-          "secondLavelCategory": "Clothing",
-          "thirdLavelCategory": "women_dress",
+          "topLevelCategory": "Women",
+          "secondLevelCategory": "Clothing",
+          "thirdLevelCategory": "women_dress",
           "description":"A traditional garment embodying elegance and grace. Crafted from fine fabrics, it features intricate embroidery and a relaxed fit, providing comfort and style."
     },
     {
@@ -790,7 +790,7 @@
         "color": "yellow",
         "discountedPrice": 389,
         "price": 999,
-        "discountPersent": 61,
+        "discountedPercent": 61,
         "size": [
             {
               "name": "S",
@@ -806,9 +806,9 @@
             }
           ],
           "quantity": 100,
-          "topLavelCategory": "Women",
-          "secondLavelCategory": "Clothing",
-          "thirdLavelCategory": "women_dress",
+          "topLevelCategory": "Women",
+          "secondLevelCategory": "Clothing",
+          "thirdLevelCategory": "women_dress",
           "description":"A traditional garment embodying elegance and grace. Crafted from fine fabrics, it features intricate embroidery and a relaxed fit, providing comfort and style."
     },
     {
@@ -818,7 +818,7 @@
         "color": "yellow",
         "discountedPrice": 464,
         "price": 1549,
-        "discountPersent": 70,
+        "discountedPercent": 70,
         "size": [
             {
               "name": "S",
@@ -834,9 +834,9 @@
             }
           ],
           "quantity": 100,
-          "topLavelCategory": "Women",
-          "secondLavelCategory": "Clothing",
-          "thirdLavelCategory": "women_dress",
+          "topLevelCategory": "Women",
+          "secondLevelCategory": "Clothing",
+          "thirdLevelCategory": "women_dress",
           "description":"A traditional garment embodying elegance and grace. Crafted from fine fabrics, it features intricate embroidery and a relaxed fit, providing comfort and style."
     },
     {
@@ -846,7 +846,7 @@
         "color": "yellow",
         "discountedPrice": 449,
         "price": 999,
-        "discountPersent": 55,
+        "discountedPercent": 55,
         "size": [
             {
               "name": "S",
@@ -862,9 +862,9 @@
             }
           ],
           "quantity": 100,
-          "topLavelCategory": "Women",
-          "secondLavelCategory": "Clothing",
-          "thirdLavelCategory": "women_dress",
+          "topLevelCategory": "Women",
+          "secondLevelCategory": "Clothing",
+          "thirdLevelCategory": "women_dress",
           "description":"A traditional garment embodying elegance and grace. Crafted from fine fabrics, it features intricate embroidery and a relaxed fit, providing comfort and style."
     },
     {
@@ -874,7 +874,7 @@
         "color": "yellow",
         "discountedPrice": 374,
         "price": 1249,
-        "discountPersent": 70,
+        "discountedPercent": 70,
         "size": [
             {
               "name": "S",
@@ -890,9 +890,9 @@
             }
           ],
           "quantity": 100,
-          "topLavelCategory": "Women",
-          "secondLavelCategory": "Clothing",
-          "thirdLavelCategory": "women_dress",
+          "topLevelCategory": "Women",
+          "secondLevelCategory": "Clothing",
+          "thirdLevelCategory": "women_dress",
           "description":"A traditional garment embodying elegance and grace. Crafted from fine fabrics, it features intricate embroidery and a relaxed fit, providing comfort and style."
     },
     {
@@ -902,7 +902,7 @@
         "color": "yellow",
         "discountedPrice": 366,
         "price": 1999,
-        "discountPersent": 81,
+        "discountedPercent": 81,
         "size": [
             {
               "name": "S",
@@ -918,9 +918,9 @@
             }
           ],
           "quantity": 100,
-          "topLavelCategory": "Women",
-          "secondLavelCategory": "Clothing",
-          "thirdLavelCategory": "women_dress",
+          "topLevelCategory": "Women",
+          "secondLevelCategory": "Clothing",
+          "thirdLevelCategory": "women_dress",
           "description":"A traditional garment embodying elegance and grace. Crafted from fine fabrics, it features intricate embroidery and a relaxed fit, providing comfort and style."
     },
     {
@@ -930,7 +930,7 @@
         "color": "yellow",
         "discountedPrice": 479,
         "price": 2330,
-        "discountPersent": 79,
+        "discountedPercent": 79,
         "size": [
             {
               "name": "S",
@@ -946,9 +946,9 @@
             }
           ],
           "quantity": 100,
-          "topLavelCategory": "Women",
-          "secondLavelCategory": "Clothing",
-          "thirdLavelCategory": "women_dress",
+          "topLevelCategory": "Women",
+          "secondLevelCategory": "Clothing",
+          "thirdLevelCategory": "women_dress",
           "description":"A traditional garment embodying elegance and grace. Crafted from fine fabrics, it features intricate embroidery and a relaxed fit, providing comfort and style."
     },
     {
@@ -958,7 +958,7 @@
         "color": "yellow",
         "discountedPrice": 459,
         "price": 1997,
-        "discountPersent": 77,
+        "discountedPercent": 77,
         "size": [
             {
               "name": "S",
@@ -974,9 +974,9 @@
             }
           ],
           "quantity": 100,
-          "topLavelCategory": "Women",
-          "secondLavelCategory": "Clothing",
-          "thirdLavelCategory": "women_dress",
+          "topLevelCategory": "Women",
+          "secondLevelCategory": "Clothing",
+          "thirdLevelCategory": "women_dress",
           "description":"A traditional garment embodying elegance and grace. Crafted from fine fabrics, it features intricate embroidery and a relaxed fit, providing comfort and style."
     },
     {
@@ -986,7 +986,7 @@
         "color": "yellow",
         "discountedPrice": 854,
         "price": 2499,
-        "discountPersent": 65,
+        "discountedPercent": 65,
         "size": [
             {
               "name": "S",
@@ -1002,9 +1002,9 @@
             }
           ],
           "quantity": 100,
-          "topLavelCategory": "Women",
-          "secondLavelCategory": "Clothing",
-          "thirdLavelCategory": "women_dress",
+          "topLevelCategory": "Women",
+          "secondLevelCategory": "Clothing",
+          "thirdLevelCategory": "women_dress",
           "description":"A traditional garment embodying elegance and grace. Crafted from fine fabrics, it features intricate embroidery and a relaxed fit, providing comfort and style."
     },
     {
@@ -1014,7 +1014,7 @@
         "color": "yellow",
         "discountedPrice": 537,
         "price": 1299,
-        "discountPersent": 58,
+        "discountedPercent": 58,
         "size": [
             {
               "name": "S",
@@ -1030,9 +1030,9 @@
             }
           ],
           "quantity": 100,
-          "topLavelCategory": "Women",
-          "secondLavelCategory": "Clothing",
-          "thirdLavelCategory": "women_dress",
+          "topLevelCategory": "Women",
+          "secondLevelCategory": "Clothing",
+          "thirdLevelCategory": "women_dress",
           "description":"A traditional garment embodying elegance and grace. Crafted from fine fabrics, it features intricate embroidery and a relaxed fit, providing comfort and style."
     },
     {
@@ -1042,7 +1042,7 @@
         "color": "yellow",
         "discountedPrice": 1299,
         "price": 5299,
-        "discountPersent": 76,
+        "discountedPercent": 76,
         "size": [
             {
               "name": "S",
@@ -1058,9 +1058,9 @@
             }
           ],
           "quantity": 100,
-          "topLavelCategory": "Women",
-          "secondLavelCategory": "Clothing",
-          "thirdLavelCategory": "women_dress",
+          "topLevelCategory": "Women",
+          "secondLevelCategory": "Clothing",
+          "thirdLevelCategory": "women_dress",
           "description":"A traditional garment embodying elegance and grace. Crafted from fine fabrics, it features intricate embroidery and a relaxed fit, providing comfort and style."
     },
     {
@@ -1070,7 +1070,7 @@
         "color": "yellow",
         "discountedPrice": 794,
         "price": 1799,
-        "discountPersent": 55,
+        "discountedPercent": 55,
         "size": [
             {
               "name": "S",
@@ -1086,9 +1086,9 @@
             }
           ],
           "quantity": 100,
-          "topLavelCategory": "Women",
-          "secondLavelCategory": "Clothing",
-          "thirdLavelCategory": "women_dress",
+          "topLevelCategory": "Women",
+          "secondLevelCategory": "Clothing",
+          "thirdLevelCategory": "women_dress",
           "description":"A traditional garment embodying elegance and grace. Crafted from fine fabrics, it features intricate embroidery and a relaxed fit, providing comfort and style."
     },
     {
@@ -1098,7 +1098,7 @@
         "color": "yellow",
         "discountedPrice": 669,
         "price": 1999,
-        "discountPersent": 66,
+        "discountedPercent": 66,
         "size": [
             {
               "name": "S",
@@ -1114,9 +1114,9 @@
             }
           ],
           "quantity": 100,
-          "topLavelCategory": "Women",
-          "secondLavelCategory": "Clothing",
-          "thirdLavelCategory": "women_dress",
+          "topLevelCategory": "Women",
+          "secondLevelCategory": "Clothing",
+          "thirdLevelCategory": "women_dress",
           "description":"A traditional garment embodying elegance and grace. Crafted from fine fabrics, it features intricate embroidery and a relaxed fit, providing comfort and style."
     }
 ]

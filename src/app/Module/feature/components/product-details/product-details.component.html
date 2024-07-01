@@ -1,21 +1,20 @@
 <div class="p-5 lg:p-10 mt-10">
-    <p class="text-gray-500 py-10">products/clothes/women/saree</p>
+    <!-- <p class="text-gray-500 py-10">products/clothes/women/saree</p> -->
     <section class="lg:grid grid-cols-3 lg:gap-10">
         <div class="col-span-2 flex items-center flex-col">
-            <img src="https://rukminim1.flixcart.com/image/612/612/l5h2xe80/kurta/x/6/n/xl-kast-tile-green-majestic-man-original-imagg4z33hu4kzpv.jpeg?q=70"
-                alt="">
+            <img [src]='product.imageUrl' alt="">
         </div>
 
         <div class="col-span-1 space-y-10 mt-10 lg:mt-0">
             <div class="space-y-2">
-                <p class="font-semibold text-gray-600 text-lg">Majestic Man</p>
-                <p class="text-xl">Men Printed Pure Cotton Straight Kurta</p>
+                <p class="font-semibold text-gray-600 text-lg">{{product.brand}}</p>
+                <p class="text-xl">{{product.title}}</p>
             </div>
 
             <div class="flex items-center space-x-5">
-                <p class="text-lg">₹499</p>
-                <p class="text-lg text-gray-700 line-through">₹1499</p>
-                <p class="text-green-400 font-semibold text-lg">66% OFF</p>
+                <p class="text-lg">₹{{product.discountedPrice}}</p>
+                <p class="text-lg text-gray-700 line-through">₹{{product.price}}</p>
+                <p class="text-green-400 font-semibold text-lg">{{product.discountedPercent}}% OFF</p>
             </div>
 
             <div>
@@ -43,8 +42,7 @@
             </div>
 
             <div>
-                <p class="text-gray-600">Lorem ipsum dolor sit amet consectetur adipisicing elit. Cum eius officia
-                    voluptatum sunt obcaecati, praesentium necessitatibus.</p>
+                <p class="text-gray-600">{{product.description}}</p>
                 <p class="text-gray-600">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Maiores praesentium
                     aperiam quidem amet nihil, vel quia laudantium nostrum exercitationem minima dicta incidunt
                     cupiditate dolores omnis vitae obcaecati fuga quo quibusdam.</p>

@@ -6,7 +6,7 @@ export const filters = [
             { value: "white", label: "White" },
             { value: "beige", label: "Beige" },
             { value: "blue", label: "Blue" },
-            { value: "blue", label: "Blue" },
+            { value: "black", label: "Black" },
             { value: "green", label: "Green" },
             { value: "purple", label: "Purple" },
             { value: "yellow", label: "Yellow" },
@@ -40,7 +40,7 @@ export const singleFilter = [
     },
 
     {
-        id: "discount",
+        id: "discountedPercent",
         name:"DISCOUNT RANGE",
         options: [
             { value: "10", label: "10% and above" },

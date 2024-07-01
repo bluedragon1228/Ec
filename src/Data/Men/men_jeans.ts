@@ -6,7 +6,7 @@ export const menJeans = [
         "color": "black",
         "discountedPrice": 599,
         "price": 1999,
-        "discountPersent": 70 ,
+        "discountedPercent": 70 ,
         "size": [
             {
               "name": "S",
@@ -22,9 +22,9 @@ export const menJeans = [
             }
           ],
           "quantity": 100,
-          "topLavelCategory": "Men",
-          "secondLavelCategory": "Clothing",
-          "thirdLavelCategory": "men_jeans",
+          "topLevelCategory": "Men",
+          "secondLevelCategory": "Clothing",
+          "thirdLevelCategory": "men_jeans",
           "description":"A traditional garment embodying elegance and grace. Crafted from fine fabrics, it features intricate embroidery and a relaxed fit, providing comfort and style."
     },
     {
@@ -34,7 +34,7 @@ export const menJeans = [
         "color": "black",
         "discountedPrice": 898,
         "price": 2399,
-        "discountPersent": 62 ,
+        "discountedPercent": 62 ,
         "size": [
             {
               "name": "S",
@@ -50,9 +50,9 @@ export const menJeans = [
             }
           ],
           "quantity": 100,
-          "topLavelCategory": "Men",
-          "secondLavelCategory": "Clothing",
-          "thirdLavelCategory": "men_jeans",
+          "topLevelCategory": "Men",
+          "secondLevelCategory": "Clothing",
+          "thirdLevelCategory": "men_jeans",
           "description":"A traditional garment embodying elegance and grace. Crafted from fine fabrics, it features intricate embroidery and a relaxed fit, providing comfort and style."
     },
     {
@@ -62,7 +62,7 @@ export const menJeans = [
         "color": "black",
         "discountedPrice": 1099,
         "price": 2799,
-        "discountPersent": 62 ,
+        "discountedPercent": 62 ,
         "size": [
             {
               "name": "S",
@@ -78,9 +78,9 @@ export const menJeans = [
             }
           ],
           "quantity": 100,
-          "topLavelCategory": "Men",
-          "secondLavelCategory": "Clothing",
-          "thirdLavelCategory": "men_jeans",
+          "topLevelCategory": "Men",
+          "secondLevelCategory": "Clothing",
+          "thirdLevelCategory": "men_jeans",
           "description":"A traditional garment embodying elegance and grace. Crafted from fine fabrics, it features intricate embroidery and a relaxed fit, providing comfort and style."
     },
     {
@@ -90,7 +90,7 @@ export const menJeans = [
         "color": "black",
         "discountedPrice": 429,
         "price": 1749,
-        "discountPersent": 75 ,
+        "discountedPercent": 75 ,
         "size": [
             {
               "name": "S",
@@ -106,9 +106,9 @@ export const menJeans = [
             }
           ],
           "quantity": 100,
-          "topLavelCategory": "Men",
-          "secondLavelCategory": "Clothing",
-          "thirdLavelCategory": "men_jeans",
+          "topLevelCategory": "Men",
+          "secondLevelCategory": "Clothing",
+          "thirdLevelCategory": "men_jeans",
           "description":"A traditional garment embodying elegance and grace. Crafted from fine fabrics, it features intricate embroidery and a relaxed fit, providing comfort and style."
     },
     {
@@ -118,7 +118,7 @@ export const menJeans = [
         "color": "black",
         "discountedPrice": 399,
         "price": 1299,
-        "discountPersent": 69 ,
+        "discountedPercent": 69 ,
         "size": [
             {
               "name": "S",
@@ -134,9 +134,9 @@ export const menJeans = [
             }
           ],
           "quantity": 100,
-          "topLavelCategory": "Men",
-          "secondLavelCategory": "Clothing",
-          "thirdLavelCategory": "men_jeans",
+          "topLevelCategory": "Men",
+          "secondLevelCategory": "Clothing",
+          "thirdLevelCategory": "men_jeans",
           "description":"A traditional garment embodying elegance and grace. Crafted from fine fabrics, it features intricate embroidery and a relaxed fit, providing comfort and style."
     },
     {
@@ -146,7 +146,7 @@ export const menJeans = [
         "color": "black",
         "discountedPrice": 701,
         "price": 1799,
-        "discountPersent": 61 ,
+        "discountedPercent": 61 ,
         "size": [
             {
               "name": "S",
@@ -162,9 +162,9 @@ export const menJeans = [
             }
           ],
           "quantity": 100,
-          "topLavelCategory": "Men",
-          "secondLavelCategory": "Clothing",
-          "thirdLavelCategory": "men_jeans",
+          "topLevelCategory": "Men",
+          "secondLevelCategory": "Clothing",
+          "thirdLevelCategory": "men_jeans",
           "description":"A traditional garment embodying elegance and grace. Crafted from fine fabrics, it features intricate embroidery and a relaxed fit, providing comfort and style."
     },
     {
@@ -174,7 +174,7 @@ export const menJeans = [
         "color": "black",
         "discountedPrice": 494,
         "price": 1799,
-        "discountPersent": 72 ,
+        "discountedPercent": 72 ,
         "size": [
             {
               "name": "S",
@@ -190,9 +190,9 @@ export const menJeans = [
             }
           ],
           "quantity": 100,
-          "topLavelCategory": "Men",
-          "secondLavelCategory": "Clothing",
-          "thirdLavelCategory": "men_jeans",
+          "topLevelCategory": "Men",
+          "secondLevelCategory": "Clothing",
+          "thirdLevelCategory": "men_jeans",
           "description":"A traditional garment embodying elegance and grace. Crafted from fine fabrics, it features intricate embroidery and a relaxed fit, providing comfort and style."
     },
     {
@@ -202,7 +202,7 @@ export const menJeans = [
         "color": "black",
         "discountedPrice": 898,
         "price": 2399,
-        "discountPersent": 62 ,
+        "discountedPercent": 62 ,
         "size": [
             {
               "name": "S",
@@ -218,9 +218,9 @@ export const menJeans = [
             }
           ],
           "quantity": 100,
-          "topLavelCategory": "Men",
-          "secondLavelCategory": "Clothing",
-          "thirdLavelCategory": "men_jeans",
+          "topLevelCategory": "Men",
+          "secondLevelCategory": "Clothing",
+          "thirdLevelCategory": "men_jeans",
           "description":"A traditional garment embodying elegance and grace. Crafted from fine fabrics, it features intricate embroidery and a relaxed fit, providing comfort and style."
     },
     {
@@ -230,7 +230,7 @@ export const menJeans = [
         "color": "black",
         "discountedPrice": 610,
         "price": 1299,
-        "discountPersent": 53 ,
+        "discountedPercent": 53 ,
         "size": [
             {
               "name": "S",
@@ -246,9 +246,9 @@ export const menJeans = [
             }
           ],
           "quantity": 100,
-          "topLavelCategory": "Men",
-          "secondLavelCategory": "Clothing",
-          "thirdLavelCategory": "men_jeans",
+          "topLevelCategory": "Men",
+          "secondLevelCategory": "Clothing",
+          "thirdLevelCategory": "men_jeans",
           "description":"A traditional garment embodying elegance and grace. Crafted from fine fabrics, it features intricate embroidery and a relaxed fit, providing comfort and style."
     },
     {
@@ -258,7 +258,7 @@ export const menJeans = [
         "color": "black",
         "discountedPrice": 699,
         "price": 1399,
-        "discountPersent": 50 ,
+        "discountedPercent": 50 ,
         "size": [
             {
               "name": "S",
@@ -274,9 +274,9 @@ export const menJeans = [
             }
           ],
           "quantity": 100,
-          "topLavelCategory": "Men",
-          "secondLavelCategory": "Clothing",
-          "thirdLavelCategory": "men_jeans",
+          "topLevelCategory": "Men",
+          "secondLevelCategory": "Clothing",
+          "thirdLevelCategory": "men_jeans",
           "description":"A traditional garment embodying elegance and grace. Crafted from fine fabrics, it features intricate embroidery and a relaxed fit, providing comfort and style."
     },
     {
@@ -286,7 +286,7 @@ export const menJeans = [
         "color": "black",
         "discountedPrice": 380,
         "price": 1299,
-        "discountPersent": 70 ,
+        "discountedPercent": 70 ,
         "size": [
             {
               "name": "S",
@@ -302,9 +302,9 @@ export const menJeans = [
             }
           ],
           "quantity": 100,
-          "topLavelCategory": "Men",
-          "secondLavelCategory": "Clothing",
-          "thirdLavelCategory": "men_jeans",
+          "topLevelCategory": "Men",
+          "secondLevelCategory": "Clothing",
+          "thirdLevelCategory": "men_jeans",
           "description":"A traditional garment embodying elegance and grace. Crafted from fine fabrics, it features intricate embroidery and a relaxed fit, providing comfort and style."
     },
     {
@@ -314,7 +314,7 @@ export const menJeans = [
         "color": "black",
         "discountedPrice": 799,
         "price": 2499,
-        "discountPersent": 68 ,
+        "discountedPercent": 68 ,
         "size": [
             {
               "name": "S",
@@ -330,9 +330,9 @@ export const menJeans = [
             }
           ],
           "quantity": 100,
-          "topLavelCategory": "Men",
-          "secondLavelCategory": "Clothing",
-          "thirdLavelCategory": "men_jeans",
+          "topLevelCategory": "Men",
+          "secondLevelCategory": "Clothing",
+          "thirdLevelCategory": "men_jeans",
           "description":"A traditional garment embodying elegance and grace. Crafted from fine fabrics, it features intricate embroidery and a relaxed fit, providing comfort and style."
     },
     {
@@ -342,7 +342,7 @@ export const menJeans = [
         "color": "black",
         "discountedPrice": 410,
         "price": 1799,
-        "discountPersent": 77 ,
+        "discountedPercent": 77 ,
         "size": [
             {
               "name": "S",
@@ -358,9 +358,9 @@ export const menJeans = [
             }
           ],
           "quantity": 100,
-          "topLavelCategory": "Men",
-          "secondLavelCategory": "Clothing",
-          "thirdLavelCategory": "men_jeans",
+          "topLevelCategory": "Men",
+          "secondLevelCategory": "Clothing",
+          "thirdLevelCategory": "men_jeans",
           "description":"A traditional garment embodying elegance and grace. Crafted from fine fabrics, it features intricate embroidery and a relaxed fit, providing comfort and style."
     },
     {
@@ -370,7 +370,7 @@ export const menJeans = [
         "color": "black",
         "discountedPrice": 349,
         "price": 1099,
-        "discountPersent": 68 ,
+        "discountedPercent": 68 ,
         "size": [
             {
               "name": "S",
@@ -386,9 +386,9 @@ export const menJeans = [
             }
           ],
           "quantity": 100,
-          "topLavelCategory": "Men",
-          "secondLavelCategory": "Clothing",
-          "thirdLavelCategory": "men_jeans",
+          "topLevelCategory": "Men",
+          "secondLevelCategory": "Clothing",
+          "thirdLevelCategory": "men_jeans",
           "description":"A traditional garment embodying elegance and grace. Crafted from fine fabrics, it features intricate embroidery and a relaxed fit, providing comfort and style."
     },
     {
@@ -398,7 +398,7 @@ export const menJeans = [
         "color": "black",
         "discountedPrice": 1799,
         "price": 2999,
-        "discountPersent": 42 ,
+        "discountedPercent": 42 ,
         "size": [
             {
               "name": "S",
@@ -414,9 +414,9 @@ export const menJeans = [
             }
           ],
           "quantity": 100,
-          "topLavelCategory": "Men",
-          "secondLavelCategory": "Clothing",
-          "thirdLavelCategory": "men_jeans",
+          "topLevelCategory": "Men",
+          "secondLevelCategory": "Clothing",
+          "thirdLevelCategory": "men_jeans",
           "description":"A traditional garment embodying elegance and grace. Crafted from fine fabrics, it features intricate embroidery and a relaxed fit, providing comfort and style."
     },
     {
@@ -426,7 +426,7 @@ export const menJeans = [
         "color": "black",
         "discountedPrice": 430,
         "price": 1799,
-        "discountPersent": 76 ,
+        "discountedPercent": 76 ,
         "size": [
             {
               "name": "S",
@@ -442,9 +442,9 @@ export const menJeans = [
             }
           ],
           "quantity": 100,
-          "topLavelCategory": "Men",
-          "secondLavelCategory": "Clothing",
-          "thirdLavelCategory": "men_jeans",
+          "topLevelCategory": "Men",
+          "secondLevelCategory": "Clothing",
+          "thirdLevelCategory": "men_jeans",
           "description":"A traditional garment embodying elegance and grace. Crafted from fine fabrics, it features intricate embroidery and a relaxed fit, providing comfort and style."
     },
     {
@@ -454,7 +454,7 @@ export const menJeans = [
         "color": "black",
         "discountedPrice": 400,
         "price": 1299,
-        "discountPersent": 69 ,
+        "discountedPercent": 69 ,
         "size": [
             {
               "name": "S",
@@ -470,9 +470,9 @@ export const menJeans = [
             }
           ],
           "quantity": 100,
-          "topLavelCategory": "Men",
-          "secondLavelCategory": "Clothing",
-          "thirdLavelCategory": "men_jeans",
+          "topLevelCategory": "Men",
+          "secondLevelCategory": "Clothing",
+          "thirdLevelCategory": "men_jeans",
           "description":"A traditional garment embodying elegance and grace. Crafted from fine fabrics, it features intricate embroidery and a relaxed fit, providing comfort and style."
     },
     {
@@ -482,7 +482,7 @@ export const menJeans = [
         "color": "black",
         "discountedPrice": 599,
         "price": 1999,
-        "discountPersent": 70 ,
+        "discountedPercent": 70 ,
         "size": [
             {
               "name": "S",
@@ -498,9 +498,9 @@ export const menJeans = [
             }
           ],
           "quantity": 100,
-          "topLavelCategory": "Men",
-          "secondLavelCategory": "Clothing",
-          "thirdLavelCategory": "men_jeans",
+          "topLevelCategory": "Men",
+          "secondLevelCategory": "Clothing",
+          "thirdLevelCategory": "men_jeans",
           "description":"A traditional garment embodying elegance and grace. Crafted from fine fabrics, it features intricate embroidery and a relaxed fit, providing comfort and style."
     },
     {
@@ -510,7 +510,7 @@ export const menJeans = [
         "color": "black",
         "discountedPrice": 899,
         "price": 1899,
-        "discountPersent": 52 ,
+        "discountedPercent": 52 ,
         "size": [
             {
               "name": "S",
@@ -526,9 +526,9 @@ export const menJeans = [
             }
           ],
           "quantity": 100,
-          "topLavelCategory": "Men",
-          "secondLavelCategory": "Clothing",
-          "thirdLavelCategory": "men_jeans",
+          "topLevelCategory": "Men",
+          "secondLevelCategory": "Clothing",
+          "thirdLevelCategory": "men_jeans",
           "description":"A traditional garment embodying elegance and grace. Crafted from fine fabrics, it features intricate embroidery and a relaxed fit, providing comfort and style."
     },
     {
@@ -538,7 +538,7 @@ export const menJeans = [
         "color": "black",
         "discountedPrice": 721,
         "price": 1849,
-        "discountPersent": 61 ,
+        "discountedPercent": 61 ,
         "size": [
             {
               "name": "S",
@@ -554,9 +554,9 @@ export const menJeans = [
             }
           ],
           "quantity": 100,
-          "topLavelCategory": "Men",
-          "secondLavelCategory": "Clothing",
-          "thirdLavelCategory": "men_jeans",
+          "topLevelCategory": "Men",
+          "secondLevelCategory": "Clothing",
+          "thirdLevelCategory": "men_jeans",
           "description":"A traditional garment embodying elegance and grace. Crafted from fine fabrics, it features intricate embroidery and a relaxed fit, providing comfort and style."
     },
     {
@@ -566,7 +566,7 @@ export const menJeans = [
         "color": "black",
         "discountedPrice": 429,
         "price": 1299,
-        "discountPersent": 66 ,
+        "discountedPercent": 66 ,
         "size": [
             {
               "name": "S",
@@ -582,9 +582,9 @@ export const menJeans = [
             }
           ],
           "quantity": 100,
-          "topLavelCategory": "Men",
-          "secondLavelCategory": "Clothing",
-          "thirdLavelCategory": "men_jeans",
+          "topLevelCategory": "Men",
+          "secondLevelCategory": "Clothing",
+          "thirdLevelCategory": "men_jeans",
           "description":"A traditional garment embodying elegance and grace. Crafted from fine fabrics, it features intricate embroidery and a relaxed fit, providing comfort and style."
     },
     {
@@ -594,7 +594,7 @@ export const menJeans = [
         "color": "black",
         "discountedPrice": 1399,
         "price": 2999,
-        "discountPersent": 55 ,
+        "discountedPercent": 55 ,
         "size": [
             {
               "name": "S",
@@ -610,9 +610,9 @@ export const menJeans = [
             }
           ],
           "quantity": 100,
-          "topLavelCategory": "Men",
-          "secondLavelCategory": "Clothing",
-          "thirdLavelCategory": "men_jeans",
+          "topLevelCategory": "Men",
+          "secondLevelCategory": "Clothing",
+          "thirdLevelCategory": "men_jeans",
           "description":"A traditional garment embodying elegance and grace. Crafted from fine fabrics, it features intricate embroidery and a relaxed fit, providing comfort and style."
     },
     {
@@ -622,7 +622,7 @@ export const menJeans = [
         "color": "black",
         "discountedPrice": 4399,
         "price": 7999,
-        "discountPersent": 45 ,
+        "discountedPercent": 45 ,
         "size": [
             {
               "name": "S",
@@ -638,9 +638,9 @@ export const menJeans = [
             }
           ],
           "quantity": 100,
-          "topLavelCategory": "Men",
-          "secondLavelCategory": "Clothing",
-          "thirdLavelCategory": "men_jeans",
+          "topLevelCategory": "Men",
+          "secondLevelCategory": "Clothing",
+          "thirdLevelCategory": "men_jeans",
           "description":"A traditional garment embodying elegance and grace. Crafted from fine fabrics, it features intricate embroidery and a relaxed fit, providing comfort and style."
     },
     {
@@ -650,7 +650,7 @@ export const menJeans = [
         "color": "black",
         "discountedPrice": 660,
         "price": 1999,
-        "discountPersent": 66 ,
+        "discountedPercent": 66 ,
         "size": [
             {
               "name": "S",
@@ -666,9 +666,9 @@ export const menJeans = [
             }
           ],
           "quantity": 100,
-          "topLavelCategory": "Men",
-          "secondLavelCategory": "Clothing",
-          "thirdLavelCategory": "men_jeans",
+          "topLevelCategory": "Men",
+          "secondLevelCategory": "Clothing",
+          "thirdLevelCategory": "men_jeans",
           "description":"A traditional garment embodying elegance and grace. Crafted from fine fabrics, it features intricate embroidery and a relaxed fit, providing comfort and style."
     },
     {
@@ -678,7 +678,7 @@ export const menJeans = [
         "color": "black",
         "discountedPrice": 739,
         "price": 1799,
-        "discountPersent": 58 ,
+        "discountedPercent": 58 ,
         "size": [
             {
               "name": "S",
@@ -694,9 +694,9 @@ export const menJeans = [
             }
           ],
           "quantity": 100,
-          "topLavelCategory": "Men",
-          "secondLavelCategory": "Clothing",
-          "thirdLavelCategory": "men_jeans",
+          "topLevelCategory": "Men",
+          "secondLevelCategory": "Clothing",
+          "thirdLevelCategory": "men_jeans",
           "description":"A traditional garment embodying elegance and grace. Crafted from fine fabrics, it features intricate embroidery and a relaxed fit, providing comfort and style."
     },
     {
@@ -706,7 +706,7 @@ export const menJeans = [
         "color": "black",
         "discountedPrice": 561,
         "price": 1699,
-        "discountPersent": 66 ,
+        "discountedPercent": 66 ,
         "size": [
             {
               "name": "S",
@@ -722,9 +722,9 @@ export const menJeans = [
             }
           ],
           "quantity": 100,
-          "topLavelCategory": "Men",
-          "secondLavelCategory": "Clothing",
-          "thirdLavelCategory": "men_jeans",
+          "topLevelCategory": "Men",
+          "secondLevelCategory": "Clothing",
+          "thirdLevelCategory": "men_jeans",
           "description":"A traditional garment embodying elegance and grace. Crafted from fine fabrics, it features intricate embroidery and a relaxed fit, providing comfort and style."
     },
     {
@@ -734,7 +734,7 @@ export const menJeans = [
         "color": "black",
         "discountedPrice": 899,
         "price": 1499,
-        "discountPersent": 40 ,
+        "discountedPercent": 40 ,
         "size": [
             {
               "name": "S",
@@ -750,9 +750,9 @@ export const menJeans = [
             }
           ],
           "quantity": 100,
-          "topLavelCategory": "Men",
-          "secondLavelCategory": "Clothing",
-          "thirdLavelCategory": "men_jeans",
+          "topLevelCategory": "Men",
+          "secondLevelCategory": "Clothing",
+          "thirdLevelCategory": "men_jeans",
           "description":"A traditional garment embodying elegance and grace. Crafted from fine fabrics, it features intricate embroidery and a relaxed fit, providing comfort and style."
     },
     {
@@ -762,7 +762,7 @@ export const menJeans = [
         "color": "black",
         "discountedPrice": 1399,
         "price": 2999,
-        "discountPersent": 55 ,
+        "discountedPercent": 55 ,
         "size": [
             {
               "name": "S",
@@ -778,9 +778,9 @@ export const menJeans = [
             }
           ],
           "quantity": 100,
-          "topLavelCategory": "Men",
-          "secondLavelCategory": "Clothing",
-          "thirdLavelCategory": "men_jeans",
+          "topLevelCategory": "Men",
+          "secondLevelCategory": "Clothing",
+          "thirdLevelCategory": "men_jeans",
           "description":"A traditional garment embodying elegance and grace. Crafted from fine fabrics, it features intricate embroidery and a relaxed fit, providing comfort and style."
     },
     {
@@ -790,7 +790,7 @@ export const menJeans = [
         "color": "black",
         "discountedPrice": 899,
         "price": 1899,
-        "discountPersent": 52 ,
+        "discountedPercent": 52 ,
         "size": [
             {
               "name": "S",
@@ -806,9 +806,9 @@ export const menJeans = [
             }
           ],
           "quantity": 100,
-          "topLavelCategory": "Men",
-          "secondLavelCategory": "Clothing",
-          "thirdLavelCategory": "men_jeans",
+          "topLevelCategory": "Men",
+          "secondLevelCategory": "Clothing",
+          "thirdLevelCategory": "men_jeans",
           "description":"A traditional garment embodying elegance and grace. Crafted from fine fabrics, it features intricate embroidery and a relaxed fit, providing comfort and style."
     },
     {
@@ -818,7 +818,7 @@ export const menJeans = [
         "color": "black",
         "discountedPrice": 499,
         "price": 1399,
-        "discountPersent": 64 ,
+        "discountedPercent": 64 ,
         "size": [
             {
               "name": "S",
@@ -834,9 +834,9 @@ export const menJeans = [
             }
           ],
           "quantity": 100,
-          "topLavelCategory": "Men",
-          "secondLavelCategory": "Clothing",
-          "thirdLavelCategory": "men_jeans",
+          "topLevelCategory": "Men",
+          "secondLevelCategory": "Clothing",
+          "thirdLevelCategory": "men_jeans",
           "description":"A traditional garment embodying elegance and grace. Crafted from fine fabrics, it features intricate embroidery and a relaxed fit, providing comfort and style."
     },
     {
@@ -846,7 +846,7 @@ export const menJeans = [
         "color": "black",
         "discountedPrice": 1399,
         "price": 2999,
-        "discountPersent": 55 ,
+        "discountedPercent": 55 ,
         "size": [
             {
               "name": "S",
@@ -862,9 +862,9 @@ export const menJeans = [
             }
           ],
           "quantity": 100,
-          "topLavelCategory": "Men",
-          "secondLavelCategory": "Clothing",
-          "thirdLavelCategory": "men_jeans",
+          "topLevelCategory": "Men",
+          "secondLevelCategory": "Clothing",
+          "thirdLevelCategory": "men_jeans",
           "description":"A traditional garment embodying elegance and grace. Crafted from fine fabrics, it features intricate embroidery and a relaxed fit, providing comfort and style."
     },
     {
@@ -874,7 +874,7 @@ export const menJeans = [
         "color": "black",
         "discountedPrice": 1149,
         "price": 2499,
-        "discountPersent": 55 ,
+        "discountedPercent": 55 ,
         "size": [
             {
               "name": "S",
@@ -890,9 +890,9 @@ export const menJeans = [
             }
           ],
           "quantity": 100,
-          "topLavelCategory": "Men",
-          "secondLavelCategory": "Clothing",
-          "thirdLavelCategory": "men_jeans",
+          "topLevelCategory": "Men",
+          "secondLevelCategory": "Clothing",
+          "thirdLevelCategory": "men_jeans",
           "description":"A traditional garment embodying elegance and grace. Crafted from fine fabrics, it features intricate embroidery and a relaxed fit, providing comfort and style."
     },
     {
@@ -902,7 +902,7 @@ export const menJeans = [
         "color": "black",
         "discountedPrice": 499,
         "price": 1399,
-        "discountPersent": 64 ,
+        "discountedPercent": 64 ,
         "size": [
             {
               "name": "S",
@@ -918,9 +918,9 @@ export const menJeans = [
             }
           ],
           "quantity": 100,
-          "topLavelCategory": "Men",
-          "secondLavelCategory": "Clothing",
-          "thirdLavelCategory": "men_jeans",
+          "topLevelCategory": "Men",
+          "secondLevelCategory": "Clothing",
+          "thirdLevelCategory": "men_jeans",
           "description":"A traditional garment embodying elegance and grace. Crafted from fine fabrics, it features intricate embroidery and a relaxed fit, providing comfort and style."
     },
     {
@@ -930,7 +930,7 @@ export const menJeans = [
         "color": "black",
         "discountedPrice": 2099,
         "price": 3999,
-        "discountPersent": 48 ,
+        "discountedPercent": 48 ,
         "size": [
             {
               "name": "S",
@@ -946,9 +946,9 @@ export const menJeans = [
             }
           ],
           "quantity": 100,
-          "topLavelCategory": "Men",
-          "secondLavelCategory": "Clothing",
-          "thirdLavelCategory": "men_jeans",
+          "topLevelCategory": "Men",
+          "secondLevelCategory": "Clothing",
+          "thirdLevelCategory": "men_jeans",
           "description":"A traditional garment embodying elegance and grace. Crafted from fine fabrics, it features intricate embroidery and a relaxed fit, providing comfort and style."
     },
     {
@@ -958,7 +958,7 @@ export const menJeans = [
         "color": "black",
         "discountedPrice": 899,
         "price": 1899,
-        "discountPersent": 52 ,
+        "discountedPercent": 52 ,
         "size": [
             {
               "name": "S",
@@ -974,9 +974,9 @@ export const menJeans = [
             }
           ],
           "quantity": 100,
-          "topLavelCategory": "Men",
-          "secondLavelCategory": "Clothing",
-          "thirdLavelCategory": "men_jeans",
+          "topLevelCategory": "Men",
+          "secondLevelCategory": "Clothing",
+          "thirdLevelCategory": "men_jeans",
           "description":"A traditional garment embodying elegance and grace. Crafted from fine fabrics, it features intricate embroidery and a relaxed fit, providing comfort and style."
     },
     {
@@ -986,7 +986,7 @@ export const menJeans = [
         "color": "black",
         "discountedPrice": 662,
         "price": 1699,
-        "discountPersent": 61 ,
+        "discountedPercent": 61 ,
         "size": [
             {
               "name": "S",
@@ -1002,9 +1002,9 @@ export const menJeans = [
             }
           ],
           "quantity": 100,
-          "topLavelCategory": "Men",
-          "secondLavelCategory": "Clothing",
-          "thirdLavelCategory": "men_jeans",
+          "topLevelCategory": "Men",
+          "secondLevelCategory": "Clothing",
+          "thirdLevelCategory": "men_jeans",
           "description":"A traditional garment embodying elegance and grace. Crafted from fine fabrics, it features intricate embroidery and a relaxed fit, providing comfort and style."
     },
     {
@@ -1014,7 +1014,7 @@ export const menJeans = [
         "color": "black",
         "discountedPrice": 916,
         "price": 3999,
-        "discountPersent": 77 ,
+        "discountedPercent": 77 ,
         "size": [
             {
               "name": "S",
@@ -1030,9 +1030,9 @@ export const menJeans = [
             }
           ],
           "quantity": 100,
-          "topLavelCategory": "Men",
-          "secondLavelCategory": "Clothing",
-          "thirdLavelCategory": "men_jeans",
+          "topLevelCategory": "Men",
+          "secondLevelCategory": "Clothing",
+          "thirdLevelCategory": "men_jeans",
           "description":"A traditional garment embodying elegance and grace. Crafted from fine fabrics, it features intricate embroidery and a relaxed fit, providing comfort and style."
     },
     {
@@ -1042,7 +1042,7 @@ export const menJeans = [
         "color": "black",
         "discountedPrice": 739,
         "price": 1499,
-        "discountPersent": 50 ,
+        "discountedPercent": 50 ,
         "size": [
             {
               "name": "S",
@@ -1058,9 +1058,9 @@ export const menJeans = [
             }
           ],
           "quantity": 100,
-          "topLavelCategory": "Men",
-          "secondLavelCategory": "Clothing",
-          "thirdLavelCategory": "men_jeans",
+          "topLevelCategory": "Men",
+          "secondLevelCategory": "Clothing",
+          "thirdLevelCategory": "men_jeans",
           "description":"A traditional garment embodying elegance and grace. Crafted from fine fabrics, it features intricate embroidery and a relaxed fit, providing comfort and style."
     },
     {
@@ -1070,7 +1070,7 @@ export const menJeans = [
         "color": "black",
         "discountedPrice": 697,
         "price": 2249,
-        "discountPersent": 69 ,
+        "discountedPercent": 69 ,
         "size": [
             {
               "name": "S",
@@ -1086,9 +1086,9 @@ export const menJeans = [
             }
           ],
           "quantity": 100,
-          "topLavelCategory": "Men",
-          "secondLavelCategory": "Clothing",
-          "thirdLavelCategory": "men_jeans",
+          "topLevelCategory": "Men",
+          "secondLevelCategory": "Clothing",
+          "thirdLevelCategory": "men_jeans",
           "description":"A traditional garment embodying elegance and grace. Crafted from fine fabrics, it features intricate embroidery and a relaxed fit, providing comfort and style."
     },
     {
@@ -1098,7 +1098,7 @@ export const menJeans = [
         "color": "black",
         "discountedPrice": 721,
         "price": 1849,
-        "discountPersent": 61 ,
+        "discountedPercent": 61 ,
         "size": [
             {
               "name": "S",
@@ -1114,9 +1114,9 @@ export const menJeans = [
             }
           ],
           "quantity": 100,
-          "topLavelCategory": "Men",
-          "secondLavelCategory": "Clothing",
-          "thirdLavelCategory": "men_jeans",
+          "topLevelCategory": "Men",
+          "secondLevelCategory": "Clothing",
+          "thirdLevelCategory": "men_jeans",
           "description":"A traditional garment embodying elegance and grace. Crafted from fine fabrics, it features intricate embroidery and a relaxed fit, providing comfort and style."
     }
 ]
