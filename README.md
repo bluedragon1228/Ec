@@ -1,27 +1,57 @@
-# EcommerceAngular
+# Technologies Used
+Frontend: Angular, Angular Material
+Backend: Spring Boot
+Security: JWT (JSON Web Tokens)
+Database: MySQL 
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.2.0.
+## Key Features
 
-## Development server
+## Backend
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+**Security :** Implemented using JWT for secure authentication and authorization.
 
-## Code scaffolding
+**Controllers :**
+Admin, Cart, CartItem, Order, Payment, Product, Rating, Review, and User controllers for handling various API endpoints.
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+**Exception Handling:**
+Custom exception handling for CartItem, Order, Product, and User-related operations.
 
-## Build
+**Models:**
+Address, Cart, CartItem, Category, Order, OrderItem, Payment, Product, Rating, Review, Size, and User.
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+**Repositories:**
+Interfaces for database operations on all models.
 
-## Running unit tests
+**Services:**
+Implementation of business logic for all repository interfaces.
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+**Request DTOs:**
+For AddItem, CreateProduct, Login, Rating, Review, API, Auth, and PaymentLink operations.
 
-## Running end-to-end tests
+## Frontend
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+**Modular Architecture:**
+Organized components and features for scalability and maintainability.
 
-## Further help
+**Components:**
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+**Authentication:** Admin and User SignIn/SignUp
+
+**Features:** Cart, Checkout, Home, Order, Order Details, Payment, Product
+
+**Shared:** Address, CartItem, Footer, Navbar, OrderTracker, StarRating
+
+**Routing:**
+Implemented for seamless navigation between components and API endpoints.
+
+**Product Data:**
+JSON-formatted clothing data for men and women, including categories like dresses, gowns, kurtas, pants, sarees, etc.
+
+**Advanced Functionalities:**
+Pagination
+Product search
+Sorting (by size, price, etc.)
+Filtering options
+
+**User Management:**
+Login and registration with validation rules
