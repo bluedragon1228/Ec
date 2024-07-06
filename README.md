@@ -1,7 +1,11 @@
 ## Technologies Used
+
 **Frontend:** Angular, Angular Material
+
 **Backend:** Spring Boot
+
 **Security:** JWT (JSON Web Tokens)
+
 **Database:** MySQL 
 
 ## Key Features
